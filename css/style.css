@@ -149,3 +149,71 @@ div .three{
     font-family: 'Courier New', Courier, monospace;
     
 }
+.details{
+    margin-top: 40px;
+}
+.form{
+    width: 700px;
+    margin: 50px auto;
+    border-radius: 12px;
+}
+.realform {
+    width: 600px;
+    margin: 50px auto;
+    background: black;
+    border-radius: 30px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .hh {
+    text-align: center;
+    color: #adadad;
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    padding: 0 40px;
+  }
+  
+  .txt-field {
+    margin: 30px 0;
+    position: relative;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 5px;
+    height: 30px;
+    font-size: medium;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: rgb(255, 42, 0);
+    border-bottom: 2px solid #adadad;
+  }
+  
+  label {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    color: #adadad;
+    font-size: 14px;
+  }
+  
+  .submit-btn {
+    width: 30%;
+    height: 40px;
+    margin-top: 20px;
+    background: orangered;
+    border: none;
+    border-radius: 26px;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .submit-btn:hover {
+    background:rgb(125, 42, 12);
+  }
+  
