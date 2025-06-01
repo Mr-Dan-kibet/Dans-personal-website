@@ -152,6 +152,9 @@ div .three{
     text-align: center;
     transition: transform 0.2s;
 }
+.last{
+    margin-left: 2%;
+}
 #contactme{
     color: silver;
     font-size: 15px;
@@ -160,6 +163,7 @@ div .three{
 }
 .details{
     margin-top: 40px;
+    margin-left: 15%;
 }
 .form{
     width: 700px;
