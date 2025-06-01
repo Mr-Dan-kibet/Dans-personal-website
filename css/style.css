@@ -225,4 +225,12 @@ div .three{
   .submit-btn:hover {
     background:rgb(125, 42, 12);
   }
+  footer{
+    background-color: #848282;
+    color: rgb(255, 42, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px 0px;
+    font-weight: bolder;
+  }
   
