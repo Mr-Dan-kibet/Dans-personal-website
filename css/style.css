@@ -23,3 +23,7 @@ nav ul li a:hover{
     color: black;
     background-color: orangered;
 }
+img{
+    width: 450px;
+    height: vh;
+}
