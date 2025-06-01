@@ -32,6 +32,15 @@ img{
     height: vh;
     border-radius: 14px;
 }
+h2{
+    color:rgb(255, 42, 0) ;
+    font-size: 35px;
+    font-family: cursive;
+    text-align: center;
+}
+.hh2{
+    margin-left: 0%;
+}
 div.home-section{
     display: flex;
     gap: 60px;
