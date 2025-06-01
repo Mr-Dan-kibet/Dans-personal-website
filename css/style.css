@@ -1,3 +1,6 @@
+*{
+    background-color: black;
+}
 #navbar{
     display: flex;
     padding: 20px 20px;
@@ -23,7 +26,39 @@ nav ul li a:hover{
     color: black;
     background-color: orangered;
 }
+
 img{
-    width: 450px;
+    width: 460px;
     height: vh;
+    border-radius: 14px;
+}
+div.home-section{
+    display: flex;
+    gap: 60px;
+}
+div.home-section p{
+    color: silver;
+}
+#home a{
+    text-decoration: none;
+    justify-content: center;
+}
+button {
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+button :hover{
+    background-color: orangered;
+    color: black;
+}
+#about{
+    font-size: 10px;
+}
+div.about-section{
+    color: silver;
+}
+div.about-section p{
+    color: silver;
+    font-size: 10px;
 }
