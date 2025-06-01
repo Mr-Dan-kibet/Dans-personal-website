@@ -38,6 +38,7 @@ div.home-section{
 }
 div.home-section p{
     color: silver;
+    font-family: 'Courier New', Courier, monospace;
 }
 #home a{
     text-decoration: none;
@@ -58,7 +59,14 @@ button :hover{
 div.about-section{
     color: silver;
 }
-div.about-section p{
+#about div.about-section {
     color: silver;
-    font-size: 10px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#about div.about-section div.two{
+    margin-left: 25%;
+}
+div .three{
+    margin-left: 60%;
 }
