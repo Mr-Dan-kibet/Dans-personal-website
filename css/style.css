@@ -44,12 +44,13 @@ div.home-section p{
     text-decoration: none;
     justify-content: center;
 }
-button {
+
+.about-btn {
     background-color: black;
     border-radius: 5px;
     margin-top: 30px;
 }
-button :hover{
+.about-btn a:hover{
     background-color: orangered;
     color: black;
 }
@@ -69,4 +70,19 @@ div.about-section{
 }
 div .three{
     margin-left: 60%;
+}
+.gallery-btn{
+    border-radius: 4px;
+    text-decoration: none;
+}
+.gallery-btn a{
+    text-decoration: none;
+}
+.gallery-btn a:hover{
+    color: black;
+    background-color: orangered;
+}
+#projects{
+    color: silver;
+    
 }
