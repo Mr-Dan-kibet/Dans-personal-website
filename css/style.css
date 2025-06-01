@@ -84,5 +84,62 @@ div .three{
 }
 #projects{
     color: silver;
-    
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.projects1-2{
+    display: flex;
+    gap: 250px;
+}
+.projects1-2 a{
+    text-decoration: none;
+    color: orangered;
+}
+.projects3-4{
+    display: flex;
+    gap: 250px;
+}
+.projects3-4 a{
+    text-decoration: none;
+    color: orangered;
+}
+.projects1-2 a:hover{
+    background-color: whitesmoke;
+}
+.projects3-4 a:hover{
+    background-color: whitesmoke;
+}
+
+.project1 {
+    background-color: black;
+    border: 4px solid goldenrod;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+.project2 {
+    background-color: black;
+    border: 4px solid goldenrod;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+.project3 {
+    background-color: black;
+    border: 4px solid goldenrod;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+.project4 {
+    background-color: black;
+    border: 4px solid goldenrod;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
 }
